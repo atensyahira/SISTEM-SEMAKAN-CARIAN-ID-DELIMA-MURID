@@ -1,0 +1,6 @@
+{
+  "name": "DELIMa CyberID - Sistem Carian & Penjana Kad ID DELIMa Murid",
+  "description": "Sistem carian ID DELIMa murid berasaskan nombor kad pengenalan dengan tema futuristik, paparan maklumat akaun selamat, serta penjanaan kad digital ID DELIMa boleh cetak untuk sekolah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
